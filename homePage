@@ -1,0 +1,460 @@
+<TITLE>Bassett Football Model</TITLE>
+
+<BODY BGCOLOR="#002CAA" TEXT="#FFFFFF"
+      LINK="#FFFF00" VLINK="#FF33AA" ALINK="#FFFFFF"> 
+
+<META  name="description" 
+  content="Computer model for ranking football teams.">
+<META  name="keywords" 
+  content="computer model, football, college, IA, IAA, nfl, ranking, results, prediction">
+
+<H1> Bassett Football Model </H1>
+
+The Bassett football model is a system for ranking the relative strengths
+of football teams.  A key feature of this model is that it recognizes
+that if two teams could play more than once the same team would not
+always win (there is an element of chance involved).  The system is
+based on a simple model of a football game.  For a given match-up of
+two teams, a number of model games are simulated by a computer and the
+average scores and the percentage of times each team wins is computed.
+Each week during the football season the best fit of offensive and
+defensive strengths is found for each team consistent with the actual
+scores.  I do include considerations for home field advantage and for
+the possibility that teams may score less than expected in a blow-out if
+they choose to run out time instead of score more points in the latter
+part of a game.
+
+<H3><B>Quick menu: </B></H3>
+<UL>
+<A HREF="#ncaa">NCAA Div IA & IAA</A>
+<UL>
+<!-- col quick begin -->
+<LI> FBS & FCS Championship Games <A HREF="col_17wk17result.html"> Results </A>
+<!-- col quick end -->
+</UL>
+<A HREF="#nfl">NFL</A>
+<UL>
+<!-- nfl quick begin -->
+<LI> Postseason: Conference (21 Jan) <A HREF="nfl_17wk20result.html"> Results </A>
+<LI> Super Bowl (4 Feb) <A HREF="nfl_17wk21pred.html"> Forecast </A>
+<!-- nfl quick end -->
+</UL>
+</UL>
+
+<!--H3> <A HREF="http://www.bassettfootballmodel.com"> Draft version of new web design for the pages</A> </H3-->
+<H3> <A HREF="about_model.html"> More about the model ... </A> </H3>
+<H3> <A HREF="questions.html"> Questions and answers ... </A> </H3>
+
+The purpose of this football web page is to provide an unbiased
+analysis of the teams: how they compare with each other and what sort
+of results to expect from upcoming games.  It is not my intention,
+however, to encourage gambling with this information.  I have purposely
+presented the information in a way that will minimize its usefulness in
+this regard while still providing useful entertainment, etc.
+<A HREF="mailto:bfm@BassettFootball.net"> Comments </A> on how to avoid
+the misuse of these web pages for gambling are most welcome.
+
+<P>
+
+Enjoy!
+
+<P> <HR SIZE=5> <P>
+
+<H2><A NAME="ncaa"></A>2017 College Football Forecast (NCAA Div IA & IAA)</H2>
+<UL>
+<LI> Week 0 (26-27 Aug):
+     <!--<A HREF="col_17wk00pred.html"> Forecast </A>, -->
+     <A HREF="col_17wk00result.html"> Results </A>
+<LI> Week 1 (31 Aug - 4 Sep):
+     <A HREF="col_17wk01pred.html"> Forecast </A>,
+     <A HREF="col_17wk01result.html"> Results </A>
+<LI> Week 2 (7-9 Sep):
+     <A HREF="col_17wk02pred.html"> Forecast </A>,
+     <A HREF="col_17wk02result.html"> Results </A>
+<LI> Week 3 (14-16 Sep):
+     <A HREF="col_17wk03pred.html"> Forecast </A>,
+     <A HREF="col_17wk03result.html"> Results </A>
+<LI> Week 4 (21-23 Sep):
+     <A HREF="col_17wk04pred.html"> Forecast </A>,
+     <A HREF="col_17wk04result.html"> Results </A>
+<LI> Week 5 (28-30 Sep):
+     <A HREF="col_17wk05pred.html"> Forecast </A>,
+     <A HREF="col_17wk05result.html"> Results </A>
+<LI> Week 6 (4-7 Oct):
+     <A HREF="col_17wk06pred.html"> Forecast </A>,
+     <A HREF="col_17wk06result.html"> Results </A>
+<LI> Week 7 (11-14 Oct):
+     <A HREF="col_17wk07pred.html"> Forecast </A>,
+     <A HREF="col_17wk07result.html"> Results </A>
+<LI> Week 8 (19-21 Oct):
+     <A HREF="col_17wk08pred.html"> Forecast </A>,
+     <A HREF="col_17wk08result.html"> Results </A>
+<LI> Week 9 (26-28 Oct):
+     <A HREF="col_17wk09pred.html"> Forecast </A>,
+     <A HREF="col_17wk09result.html"> Results </A>
+<LI> Week 10 (31 Oct - 4 Nov):
+     <A HREF="col_17wk10pred.html"> Forecast </A>,
+     <A HREF="col_17wk10result.html"> Results </A>
+<LI> Week 11 (7-11 Nov):
+     <A HREF="col_17wk11pred.html"> Forecast </A>,
+     <A HREF="col_17wk11result.html"> Results </A>
+<LI> Week 12 (14-18 Nov):
+     <A HREF="col_17wk12pred.html"> Forecast </A>,
+     <A HREF="col_17wk12result.html"> Results </A>
+<LI> Week 13 (21-25 Nov):
+     <A HREF="col_17wk13pred.html"> Forecast </A>,
+     <A HREF="col_17wk13result.html"> Results </A>
+<LI> Week 14 (1-2 Dec):
+     <A HREF="col_17wk14pred.html"> Forecast </A>,
+     <A HREF="col_17wk14result.html"> Results </A>
+<LI> Week 15 (8-9 Dec):
+     <A HREF="col_17wk15pred.html"> Forecast </A>,
+     <A HREF="col_17wk15result.html"> Results </A>
+<LI> Bowl Games:
+     <A HREF="col_17wk16pred.html"> Forecast </A>,
+     <A HREF="col_17wk16result.html"> Results </A>
+<LI> FBS & FCS Championship Games:
+     <A HREF="col_17wk17pred.html"> Forecast </A>,
+     <A HREF="col_17wk17result.html"> Results </A>
+<!-- col weeks -->
+</UL>
+
+<H3> Bassett Model rankings: </H3>
+<A NAME="stephenson"></A>
+The <B>Stephenson Earned Rank</B> shows what a team has earned from its wins.  
+It ranks by how much better a given team's winning record is when compared against how 
+all other teams would have faired if they had played the same schedule.  
+(Available after the 5th week in the season.)  
+The <B>Power Rankings</B> measure the strength of each team by how well they have played on average,
+going by point performance.  The <B>Current Model Power Rankings</B> are the best 
+indicator of how well a team will play in the future.
+<H3> <A HREF="col_17earnedrank.html">
+    9 Jan 2018: Stephenson Earned Rank (NCAA Div I & IAA)</A> <!-- col rank -->
+<BR>(Team wins subtracted by average number of wins if all other teams played their schedule as simulated by the Bassett Football Model)</H3>
+
+<H3> <A HREF="col_17averank.html">
+     9 Jan 2018: Average Model Power Rankings (NCAA Div I & IAA)</A> <!-- col rank -->
+<BR>(average power ranking for entire season)</H3>
+
+<H3> <A HREF="col_17currank.html">
+     9 Jan 2018: Current Model Power Rankings (NCAA Div I & IAA)</A> <!-- col rank -->
+<!--
+<BR>(power ranking at current week in the season)</H3> 
+-->
+<BR>(power ranking at final week of the season)</H3>
+
+<H3> 2017 Model Performance: </H3>
+<!-- col hist begin -->
+<PRE>
+All Div I games               forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:        164     727     164     236     212       0    1503
+number right:        81     478     135     203     198       0    1095
+number expected:   90.0   473.6   122.2   203.0   198.5     0.0  1087.2
+right/expected:    0.90    1.01    1.10    1.00    1.00    0.00    1.01
+
+Breakdown by Conference and Division:
+Conference games              forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         97     459     114     172     166       0    1008
+number right:        45     286      88     148     153       0     720
+number expected:   53.2   298.7    85.3   148.6   155.5     0.0   741.4
+right/expected:    0.85    0.96    1.03    1.00    0.98    0.00    0.97
+
+Non-Conference games          forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         54     214      35      54      40       0     397
+number right:        31     146      32      47      39       0     295
+number expected:   29.7   139.6    25.9    46.0    37.3     0.0   278.4
+right/expected:    1.04    1.05    1.23    1.02    1.05    0.00    1.06
+
+Non-Division games            forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         13      54      15      10       6       0      98
+number right:         5      46      15       8       6       0      80
+number expected:    7.1    35.3    11.0     8.4     5.7     0.0    67.4
+right/expected:    0.71    1.30    1.37    0.95    1.05    0.00    1.19
+
+actual/expected = 1 -- model right on
+actual/expected > 1 -- model probabilities too low (more wins than expected)
+actual/expected < 1 -- model probabilities too high (less wins than expected)
+</PRE>
+<!-- col hist end -->
+
+<BR>
+
+<H2> Past Seasons: </H2>
+
+<UL>
+
+<LI>
+<A HREF="col_16.html">2016 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_15.html">2015 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_14.html">2014 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_13.html">2013 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_12.html">2012 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_11.html">2011 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_10.html">2010 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_09.html">2009 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_08.html">2008 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_07.html">2007 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_06.html">2006 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_05.html">2005 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_04.html">2004 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_03.html">2003 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_02.html">2002 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_01.html">2001 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_00.html">2000 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>
+<A HREF="col_99.html">1999 College Football Forecast (NCAA Div IA & IAA) </A>
+
+<LI>  <A HREF="col_98.html">1998 College Football Forecast </A>
+
+<LI>  <A HREF="col_97.html">1997 College Football Forecast </A>
+
+<LI>  <A HREF="col_96.html">1996 College Football Forecast </A>
+
+<LI> <A HREF="col_95rank.html"> 1995 Average Model Rankings </A>
+
+</UL>
+
+<P> <HR SIZE=5> <P>
+
+<H2><A NAME="nfl"></A>2017 NFL Forecast</H2>
+
+<UL>
+<LI> Week 1 (7-11 Sep):
+     <A HREF="nfl_17wk01pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk01result.html"> Results </A>
+<LI> Week 2 (14-18 Sep):
+     <A HREF="nfl_17wk02pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk02result.html"> Results </A>
+<LI> Week 3 (21-25 Sep):
+     <A HREF="nfl_17wk03pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk03result.html"> Results </A>
+<LI> Week 4 (28 Sep - 2 Oct):
+     <A HREF="nfl_17wk04pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk04result.html"> Results </A>
+<LI> Week 5 (5-9 Oct):
+     <A HREF="nfl_17wk05pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk05result.html"> Results </A>
+<LI> Week 6 (12-16 Oct):
+     <A HREF="nfl_17wk06pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk06result.html"> Results </A>
+<LI> Week 7 (19-23 Oct):
+     <A HREF="nfl_17wk07pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk07result.html"> Results </A>
+<LI> Week 8 (26-30 Oct):
+     <A HREF="nfl_17wk08pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk08result.html"> Results </A>
+<LI> Week 9 (2-6 Nov):
+     <A HREF="nfl_17wk09pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk09result.html"> Results </A>
+<LI> Week 10 (9-13 Nov):
+     <A HREF="nfl_17wk10pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk10result.html"> Results </A>
+<LI> Week 11 (16-20 Nov):
+     <A HREF="nfl_17wk11pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk11result.html"> Results </A>
+<LI> Week 12 (23-27 Nov):
+     <A HREF="nfl_17wk12pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk12result.html"> Results </A>
+<LI> Week 13 (30 Nov - 4 Dec):
+     <A HREF="nfl_17wk13pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk13result.html"> Results </A>
+<LI> Week 14 (10-11 Dec):
+     <A HREF="nfl_17wk14pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk14result.html"> Results </A>
+<LI> Week 15 (14-18 Dec):
+     <A HREF="nfl_17wk15pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk15result.html"> Results </A>
+<LI> Week 16 (23-25 Dec):
+     <A HREF="nfl_17wk16pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk16result.html"> Results </A>
+<LI> Week 17 (31 Dec):
+     <A HREF="nfl_17wk17pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk17result.html"> Results </A>
+<LI> Postseason: Wild Card (6-7 Jan):
+     <A HREF="nfl_17wk18pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk18result.html"> Results </A>
+<LI> Postseason: Divisional (13-14 Jan):
+     <A HREF="nfl_17wk19pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk19result.html"> Results </A>
+<LI> Postseason: Conference (21 Jan):
+     <A HREF="nfl_17wk20pred.html"> Forecast </A>,
+     <A HREF="nfl_17wk20result.html"> Results </A>
+<LI> Super Bowl (4 Feb):
+     <A HREF="nfl_17wk21pred.html"> Forecast </A>
+<!-- nfl weeks -->
+</UL>
+
+<H3> <A HREF="nfl_17averank.html">
+     22 Jan 2018: Average model rankings (NFL)</A> <!-- nfl rank -->
+     (average rank over entire season)</H3>
+<H3> <A HREF="nfl_17currank.html">
+     22 Jan 2018: Current model rankings (NFL)</A> <!-- nfl rank -->
+     (rank at current week in the season)</H3>
+     <!--
+     (rank at final week in the season)</H3>
+     -->
+
+<H3> 2017 Model Performance: </H3>
+<!-- nfl hist begin -->
+<PRE>
+All games                     forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         39     164      36      27       0       0     266
+number right:        22     101      27      23       0       0     173
+number expected:   21.4   102.5    26.7    22.6     0.0     0.0   173.2
+right/expected:    1.03    0.98    1.01    1.02    0.00    0.00    1.00
+
+Breakdown by Division and Conference:
+Division games                forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         16      55      16      10       0       0      97
+number right:         9      38      11       9       0       0      67
+number expected:    8.6    34.6    11.8     8.4     0.0     0.0    63.4
+right/expected:    1.04    1.10    0.93    1.07    0.00    0.00    1.06
+
+Non-Division games            forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         11      75       8      11       0       0     105
+number right:         7      44       6       9       0       0      66
+number expected:    6.1    46.8     6.0     9.2     0.0     0.0    68.1
+right/expected:    1.15    0.94    1.00    0.98    0.00    0.00    0.97
+
+Non-Conference games          forecast probabilities
+                 50-59%  60-69%  70-79%  80-89%  90-99%    100%     all
+total games:         12      34      12       6       0       0      64
+number right:         6      19      10       5       0       0      40
+number expected:    6.7    21.2     9.0     5.0     0.0     0.0    41.8
+right/expected:    0.90    0.90    1.12    1.00    0.00    0.00    0.96
+
+actual/expected = 1 -- model right on
+actual/expected > 1 -- model probabilities too low (more wins than expected)
+actual/expected < 1 -- model probabilities too high (less wins than expected)
+</PRE>
+<!-- nfl hist end -->
+
+<BR>
+
+<H2> Past Seasons: </H2>
+
+<UL>
+
+<LI>  <A HREF="nfl_16.html">2016 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_15.html">2015 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_14.html">2014 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_13.html">2013 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_12.html">2012 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_11.html">2011 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_10.html">2010 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_09.html">2009 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_08.html">2008 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_07.html">2007 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_06.html">2006 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_05.html">2005 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_04.html">2004 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_03.html">2003 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_02.html">2002 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_01.html">2001 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_00.html">2000 NFL Forecast </A>
+
+<LI>  <A HREF="nfl_99.html">1999 NFL Forecast </A>
+
+</UL>
+
+<HR SIZE=5>
+
+<H2> Links of interest </H2>
+
+<UL>
+
+<LI><A HREF="http://prwolfe.bol.ucla.edu/cfootball/home.htm">
+     Peter Wolfe's College Football Scores</A> (my primary source of scores)
+<LI><A HREF="http://www.mratings.com/cf/compare.htm">
+     College Football Ranking Comparasion</A>
+<LI><A HREF="http://wilson.engr.wisc.edu/rsfc/oth_sites/rate">
+     Dave Wilson's Polls, Power Ratings and Rankings</A>
+<LI><A HREF="http://wilson.engr.wisc.edu/rsfc">
+     RSFC College Football </A>
+<LI><A HREF="http://www.thepredictiontracker.com/predncaa.html">
+     PerformanZ sponsored comparison between ranking/prediction systems</A>
+<LI><A HREF="http://www.cfpool.com/">
+     RSFC CFPOOL</A>
+<!--
+<UL> 
+<LI><A HREF="http://www.cfpool.com/2002/ytd2002.htm">
+</UL>
+-->
+
+</UL>
+
+<P> <HR SIZE=5> <P>
+
+Please email comments or questions to
+<A HREF="mailto:bfm@BassettFootball.net">bfm@BassettFootball.net</A>
+<P>
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57163053-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
