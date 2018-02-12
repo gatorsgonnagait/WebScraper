@@ -166,7 +166,7 @@ season_2017_df.to_excel('2017_power_rankings.xlsx')
 
 # reverses list and starts at 2006
 
-for season in reversed(links_seasons[:11]):
+for season in reversed(links_seasons[:12]):
     print(season)
     link = 'http://gmbassett.nfshost.com/football/' + season
     with urllib.request.urlopen(link) as response:
